@@ -4,8 +4,9 @@ Hi 👋 My name is Conor Behard Roberts
 I wrote my first hello world program in 2016 and I've been programming ever since.
 
 * 🌍  I'm based in Exeter/Bristol
-* 🖥️  See my portfolio at [conordeveloper.com](http://conorbrdeveloper.com/)
+* 🖥️  See my portfolio at [conordeveloper.com](https://conorbrdeveloper.com/)
 * ✉️  You can contact me at [conorbehard@hotmail.co.uk](mailto:conorbehard@hotmail.co.uk)
+* 🖥️  In my spare time I am a photographer. Check out my portfolio at [conorbr.co.uk](https://conorbr.co.uk/)!
 
 ### Skills
 
